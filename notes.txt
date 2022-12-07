@@ -1,0 +1,3 @@
+Linux kernel allows creating namespaces
+chroot(2) change the root folder of a process
+groups 
