@@ -7,6 +7,6 @@ Change version in docker-compose.yml to the version of the docker-compose you ha
 
 To launch the docker container, run the following command:
 
-    -docker compose up
+    -docker compose up if you have docker-compose-plugin installed
     or
-    -docker-compose up
+    -docker-compose up if you have docker-compose installed
